@@ -1,0 +1,12 @@
+{
+  "name": "OneSite",
+  "displayName": "OneSite",
+  "expo": {
+    "name": "OneSite",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
